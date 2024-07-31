@@ -1,0 +1,25 @@
+/* Estilização personalizada */
+body {
+    background-color: #5c5c5c;
+    color: white;
+}
+
+.container {
+    max-width: 600px;
+    margin-top: 50px;
+    background: #939393;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    text-align: center;
+    color: white;
+
+}
+
+.btn-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+}
